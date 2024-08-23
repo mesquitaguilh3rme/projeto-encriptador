@@ -9,7 +9,7 @@ Este é um projeto simples de encriptador de texto desenvolvido com **JavaScript
 
 ## Regras de Encriptação
 
-1. O encriptador **apenas aceita letras maiúsculas**.
+1. O encriptador **apenas aceita letras minúsculas**.
 2. **Não** são permitidos acentos ou caracteres especiais.
 3. Textos que não seguem essas regras não serão processados corretamente.
 
